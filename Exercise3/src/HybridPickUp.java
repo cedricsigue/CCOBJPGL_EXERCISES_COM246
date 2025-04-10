@@ -1,0 +1,3 @@
+class HybridPickUp extends HybridVehicle {
+    
+}
